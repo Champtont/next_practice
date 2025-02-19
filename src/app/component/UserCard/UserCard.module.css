@@ -1,0 +1,27 @@
+.userCard {
+    padding: 1em;
+    background-color: aqua;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    color: black;
+  }
+  .userCardTop {
+    padding: .5em;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: .3em;
+  }
+  .userCardBottom {
+    padding: .5em;
+    background-color:lightcyan;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+  }
+  .userCardBottomItem {
+    margin-right: auto;
+    border: 2pt solid orangered;
+    border-radius: 5px;
+    padding: .3em;
+  }
